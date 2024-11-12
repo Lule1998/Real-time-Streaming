@@ -1,4 +1,3 @@
-// src/app/components/stream-controls/stream-controls.component.ts
 import { Component, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
